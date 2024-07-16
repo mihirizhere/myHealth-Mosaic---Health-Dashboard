@@ -1,0 +1,39 @@
+.medication-box {
+    background-color: #dfd5e5;
+    width: 1000px;
+    border-radius: 10px;
+    color: #000;
+}
+
+.medication-box ul {
+    list-style-type: none;
+}
+
+.medication-box li {
+    margin-bottom: 2px;
+}
+
+.page-container {
+    width: 100vw;
+}
+.text-box {
+    background-color: #dfd5e5;
+    width: 300px;
+    height: 20px;
+    border-radius: 10px;
+}
+
+.add-new {
+    font-size: 16px;
+    color: white;
+    background-color: #09002c;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+h5{
+    color: #333;
+    font-size: 1.5em;
+    margin-bottom: 1em;
+}

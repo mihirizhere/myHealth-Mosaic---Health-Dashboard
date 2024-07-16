@@ -1,0 +1,11 @@
+
+.table td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0 15px;
+}
